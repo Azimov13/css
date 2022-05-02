@@ -1,0 +1,22 @@
+*{
+     padding: 0;
+     margin:0;
+     /* font-family: 'DM Sans'; */
+     box-sizing: border-box;
+
+}
+
+.container{
+    width:80%;
+    height:80px;
+    margin: 0  auto;
+    
+    
+}
+.bar-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    font-family:'DM Sans' ;
+}
